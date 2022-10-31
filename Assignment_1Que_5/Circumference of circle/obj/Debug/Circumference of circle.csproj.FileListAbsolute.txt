@@ -1,0 +1,8 @@
+D:\console application\Circumference of circle\Circumference of circle\bin\Debug\Circumference of circle.exe.config
+D:\console application\Circumference of circle\Circumference of circle\bin\Debug\Circumference of circle.exe
+D:\console application\Circumference of circle\Circumference of circle\bin\Debug\Circumference of circle.pdb
+D:\console application\Circumference of circle\Circumference of circle\obj\Debug\Circumference of circle.csproj.AssemblyReference.cache
+D:\console application\Circumference of circle\Circumference of circle\obj\Debug\Circumference of circle.csproj.SuggestedBindingRedirects.cache
+D:\console application\Circumference of circle\Circumference of circle\obj\Debug\Circumference of circle.csproj.CoreCompileInputs.cache
+D:\console application\Circumference of circle\Circumference of circle\obj\Debug\Circumference of circle.exe
+D:\console application\Circumference of circle\Circumference of circle\obj\Debug\Circumference of circle.pdb

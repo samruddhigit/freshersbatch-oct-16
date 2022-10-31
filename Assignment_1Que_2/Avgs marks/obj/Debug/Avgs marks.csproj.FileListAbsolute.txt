@@ -1,0 +1,8 @@
+D:\console application\Avgs marks\Avgs marks\bin\Debug\Avgs marks.exe.config
+D:\console application\Avgs marks\Avgs marks\bin\Debug\Avgs marks.exe
+D:\console application\Avgs marks\Avgs marks\bin\Debug\Avgs marks.pdb
+D:\console application\Avgs marks\Avgs marks\obj\Debug\Avgs marks.csproj.AssemblyReference.cache
+D:\console application\Avgs marks\Avgs marks\obj\Debug\Avgs marks.csproj.SuggestedBindingRedirects.cache
+D:\console application\Avgs marks\Avgs marks\obj\Debug\Avgs marks.csproj.CoreCompileInputs.cache
+D:\console application\Avgs marks\Avgs marks\obj\Debug\Avgs marks.exe
+D:\console application\Avgs marks\Avgs marks\obj\Debug\Avgs marks.pdb

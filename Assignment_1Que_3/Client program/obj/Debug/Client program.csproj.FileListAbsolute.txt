@@ -1,0 +1,8 @@
+D:\console application\Client program\Client program\bin\Debug\Client program.exe.config
+D:\console application\Client program\Client program\bin\Debug\Client program.exe
+D:\console application\Client program\Client program\bin\Debug\Client program.pdb
+D:\console application\Client program\Client program\obj\Debug\Client program.csproj.AssemblyReference.cache
+D:\console application\Client program\Client program\obj\Debug\Client program.csproj.SuggestedBindingRedirects.cache
+D:\console application\Client program\Client program\obj\Debug\Client program.csproj.CoreCompileInputs.cache
+D:\console application\Client program\Client program\obj\Debug\Client program.exe
+D:\console application\Client program\Client program\obj\Debug\Client program.pdb

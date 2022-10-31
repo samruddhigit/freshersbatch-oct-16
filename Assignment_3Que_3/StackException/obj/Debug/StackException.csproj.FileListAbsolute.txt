@@ -1,0 +1,8 @@
+D:\console application\StackException\StackException\bin\Debug\StackException.exe.config
+D:\console application\StackException\StackException\bin\Debug\StackException.exe
+D:\console application\StackException\StackException\bin\Debug\StackException.pdb
+D:\console application\StackException\StackException\obj\Debug\StackException.csproj.AssemblyReference.cache
+D:\console application\StackException\StackException\obj\Debug\StackException.csproj.SuggestedBindingRedirects.cache
+D:\console application\StackException\StackException\obj\Debug\StackException.csproj.CoreCompileInputs.cache
+D:\console application\StackException\StackException\obj\Debug\StackException.exe
+D:\console application\StackException\StackException\obj\Debug\StackException.pdb

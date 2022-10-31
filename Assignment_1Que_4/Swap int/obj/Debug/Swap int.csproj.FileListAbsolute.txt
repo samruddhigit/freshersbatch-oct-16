@@ -1,0 +1,8 @@
+D:\console application\Swap int\Swap int\bin\Debug\Swap int.exe.config
+D:\console application\Swap int\Swap int\bin\Debug\Swap int.exe
+D:\console application\Swap int\Swap int\bin\Debug\Swap int.pdb
+D:\console application\Swap int\Swap int\obj\Debug\Swap int.csproj.AssemblyReference.cache
+D:\console application\Swap int\Swap int\obj\Debug\Swap int.csproj.SuggestedBindingRedirects.cache
+D:\console application\Swap int\Swap int\obj\Debug\Swap int.csproj.CoreCompileInputs.cache
+D:\console application\Swap int\Swap int\obj\Debug\Swap int.exe
+D:\console application\Swap int\Swap int\obj\Debug\Swap int.pdb
