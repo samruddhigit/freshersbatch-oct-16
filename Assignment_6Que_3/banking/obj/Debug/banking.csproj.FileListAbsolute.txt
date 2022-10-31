@@ -1,0 +1,8 @@
+D:\console application\banking\banking\bin\Debug\banking.exe.config
+D:\console application\banking\banking\bin\Debug\banking.exe
+D:\console application\banking\banking\bin\Debug\banking.pdb
+D:\console application\banking\banking\obj\Debug\banking.csproj.AssemblyReference.cache
+D:\console application\banking\banking\obj\Debug\banking.csproj.SuggestedBindingRedirects.cache
+D:\console application\banking\banking\obj\Debug\banking.csproj.CoreCompileInputs.cache
+D:\console application\banking\banking\obj\Debug\banking.exe
+D:\console application\banking\banking\obj\Debug\banking.pdb

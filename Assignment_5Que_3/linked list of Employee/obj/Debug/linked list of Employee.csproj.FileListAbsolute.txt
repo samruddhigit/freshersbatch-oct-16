@@ -1,0 +1,8 @@
+D:\console application\linked list of Employee\linked list of Employee\bin\Debug\linked list of Employee.exe.config
+D:\console application\linked list of Employee\linked list of Employee\bin\Debug\linked list of Employee.exe
+D:\console application\linked list of Employee\linked list of Employee\bin\Debug\linked list of Employee.pdb
+D:\console application\linked list of Employee\linked list of Employee\obj\Debug\linked list of Employee.csproj.AssemblyReference.cache
+D:\console application\linked list of Employee\linked list of Employee\obj\Debug\linked list of Employee.csproj.SuggestedBindingRedirects.cache
+D:\console application\linked list of Employee\linked list of Employee\obj\Debug\linked list of Employee.csproj.CoreCompileInputs.cache
+D:\console application\linked list of Employee\linked list of Employee\obj\Debug\linked list of Employee.exe
+D:\console application\linked list of Employee\linked list of Employee\obj\Debug\linked list of Employee.pdb

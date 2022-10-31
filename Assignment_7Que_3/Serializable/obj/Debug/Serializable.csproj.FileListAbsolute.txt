@@ -1,0 +1,8 @@
+D:\console application\Serializable\Serializable\bin\Debug\Serializable.exe.config
+D:\console application\Serializable\Serializable\bin\Debug\Serializable.exe
+D:\console application\Serializable\Serializable\bin\Debug\Serializable.pdb
+D:\console application\Serializable\Serializable\obj\Debug\Serializable.csproj.AssemblyReference.cache
+D:\console application\Serializable\Serializable\obj\Debug\Serializable.csproj.SuggestedBindingRedirects.cache
+D:\console application\Serializable\Serializable\obj\Debug\Serializable.csproj.CoreCompileInputs.cache
+D:\console application\Serializable\Serializable\obj\Debug\Serializable.exe
+D:\console application\Serializable\Serializable\obj\Debug\Serializable.pdb

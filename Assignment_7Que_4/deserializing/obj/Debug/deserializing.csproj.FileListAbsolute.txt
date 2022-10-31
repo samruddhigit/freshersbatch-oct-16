@@ -1,0 +1,8 @@
+D:\console application\deserializing\deserializing\bin\Debug\deserializing.exe.config
+D:\console application\deserializing\deserializing\bin\Debug\deserializing.exe
+D:\console application\deserializing\deserializing\bin\Debug\deserializing.pdb
+D:\console application\deserializing\deserializing\obj\Debug\deserializing.csproj.AssemblyReference.cache
+D:\console application\deserializing\deserializing\obj\Debug\deserializing.csproj.SuggestedBindingRedirects.cache
+D:\console application\deserializing\deserializing\obj\Debug\deserializing.csproj.CoreCompileInputs.cache
+D:\console application\deserializing\deserializing\obj\Debug\deserializing.exe
+D:\console application\deserializing\deserializing\obj\Debug\deserializing.pdb
