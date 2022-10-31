@@ -1,0 +1,8 @@
+D:\console application\inputdata\inputdata\bin\Debug\inputdata.exe.config
+D:\console application\inputdata\inputdata\bin\Debug\inputdata.exe
+D:\console application\inputdata\inputdata\bin\Debug\inputdata.pdb
+D:\console application\inputdata\inputdata\obj\Debug\inputdata.csproj.AssemblyReference.cache
+D:\console application\inputdata\inputdata\obj\Debug\inputdata.csproj.SuggestedBindingRedirects.cache
+D:\console application\inputdata\inputdata\obj\Debug\inputdata.csproj.CoreCompileInputs.cache
+D:\console application\inputdata\inputdata\obj\Debug\inputdata.exe
+D:\console application\inputdata\inputdata\obj\Debug\inputdata.pdb
