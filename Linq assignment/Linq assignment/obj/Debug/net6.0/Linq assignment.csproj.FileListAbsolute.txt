@@ -1,0 +1,15 @@
+D:\console application\Linq assignment\Linq assignment\bin\Debug\net6.0\Linq assignment.exe
+D:\console application\Linq assignment\Linq assignment\bin\Debug\net6.0\Linq assignment.deps.json
+D:\console application\Linq assignment\Linq assignment\bin\Debug\net6.0\Linq assignment.runtimeconfig.json
+D:\console application\Linq assignment\Linq assignment\bin\Debug\net6.0\Linq assignment.dll
+D:\console application\Linq assignment\Linq assignment\bin\Debug\net6.0\Linq assignment.pdb
+D:\console application\Linq assignment\Linq assignment\obj\Debug\net6.0\Linq assignment.csproj.AssemblyReference.cache
+D:\console application\Linq assignment\Linq assignment\obj\Debug\net6.0\Linq assignment.GeneratedMSBuildEditorConfig.editorconfig
+D:\console application\Linq assignment\Linq assignment\obj\Debug\net6.0\Linq assignment.AssemblyInfoInputs.cache
+D:\console application\Linq assignment\Linq assignment\obj\Debug\net6.0\Linq assignment.AssemblyInfo.cs
+D:\console application\Linq assignment\Linq assignment\obj\Debug\net6.0\Linq assignment.csproj.CoreCompileInputs.cache
+D:\console application\Linq assignment\Linq assignment\obj\Debug\net6.0\Linq assignment.dll
+D:\console application\Linq assignment\Linq assignment\obj\Debug\net6.0\refint\Linq assignment.dll
+D:\console application\Linq assignment\Linq assignment\obj\Debug\net6.0\Linq assignment.pdb
+D:\console application\Linq assignment\Linq assignment\obj\Debug\net6.0\Linq assignment.genruntimeconfig.cache
+D:\console application\Linq assignment\Linq assignment\obj\Debug\net6.0\ref\Linq assignment.dll
